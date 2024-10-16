@@ -22,14 +22,18 @@
   <img align="right" alt="JuniorCanedo-pic" height="150" style="border-radius:50px;" 
        src="https://lh3.googleusercontent.com/a/ACg8ocL8IqrtaASILIIEMoIgBHnmr2QQml_s9X4nw-YlpVeConozoIOgPOgKGv0SNnvfmTe5_hIh6SF_rRoGNbPPi7icKLdIrFQFPg=s360-c-no">
 </div>
-  
-  
+    
   <div> 
   
   <a href="https://instagram.com/Junior_Canedo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:josejuniorcanedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-canedo-220256a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/juniorcanedo/juniorcanedo/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+    
+</picture>
  
 </div>
