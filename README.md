@@ -20,7 +20,7 @@
   <img align="center" alt="JuniorCanedo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   <img align="right" alt="JuniorCanedo-pic" height="150" style="border-radius:50px;" 
-       src="[[[https://lh3.googleusercontent.com/a-/AOh14GjyWB8CmOm6B19OtXEJArxUgvoPqlNppucV1MLYrKA=s288-p-rw-no](https://lh3.googleusercontent.com/a/ACg8ocL8IqrtaASILIIEMoIgBHnmr2QQml_s9X4nw-YlpVeConozoIOgPOgKGv0SNnvfmTe5_hIh6SF_rRoGNbPPi7icKLdIrFQFPg=s360-c-no)s](https://lh3.googleusercontent.com/a/ACg8ocL8IqrtaASILIIEMoIgBHnmr2QQml_s9X4nw-YlpVeConozoIOgPOgKGv0SNnvfmTe5_hIh6SF_rRoGNbPPi7icKLdIrFQFPg=s360-c-no)](https://lh3.googleusercontent.com/a/ACg8ocL8IqrtaASILIIEMoIgBHnmr2QQml_s9X4nw-YlpVeConozoIOgPOgKGv0SNnvfmTe5_hIh6SF_rRoGNbPPi7icKLdIrFQFPg=s360-c-no)">
+       src="[https://lh3.googleusercontent.com/a-/AOh14GjyWB8CmOm6B19OtXEJArxUgvoPqlNppucV1MLYrKA=s288-p-rw-no](https://lh3.googleusercontent.com/a/ACg8ocL8IqrtaASILIIEMoIgBHnmr2QQml_s9X4nw-YlpVeConozoIOgPOgKGv0SNnvfmTe5_hIh6SF_rRoGNbPPi7icKLdIrFQFPg=s360-c-no)s](https://lh3.googleusercontent.com/a/ACg8ocL8IqrtaASILIIEMoIgBHnmr2QQml_s9X4nw-YlpVeConozoIOgPOgKGv0SNnvfmTe5_hIh6SF_rRoGNbPPi7icKLdIrFQFPg=s360-c-no)](https://lh3.googleusercontent.com/a/ACg8ocL8IqrtaASILIIEMoIgBHnmr2QQml_s9X4nw-YlpVeConozoIOgPOgKGv0SNnvfmTe5_hIh6SF_rRoGNbPPi7icKLdIrFQFPg=s360-c-no)](https://lh3.googleusercontent.com/a/ACg8ocL8IqrtaASILIIEMoIgBHnmr2QQml_s9X4nw-YlpVeConozoIOgPOgKGv0SNnvfmTe5_hIh6SF_rRoGNbPPi7icKLdIrFQFPg=s360-c-no)">
 </div>
   
   
